@@ -46,8 +46,9 @@ I'm a passionate full-stack developer specializing in modern JavaScript technolo
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelrynm&layout=compact&theme=dark)
 
 ### 🌟 Featured Projects
-
-Check out some of my recent work in the repositories below! I'm always working on new projects and experimenting with the latest technologies.
+Check out some of my recent work in the repositories below! I'm always working on new projects and experimenting with the latest technologies. <br>
+[![Company Profile](https://github-readme-stats.vercel.app/api/pin/?username=michaelrynm&repo=smartnerdies&theme=dark)](https://github.com/michaelrynm/smartnerdies)
+[![Company Profile](https://github-readme-stats.vercel.app/api/pin/?username=michaelrynm&repo=table-qa-front&theme=dark)](https://github.com/michaelrynm/table-qa-front)
 
 ### 📫 Let's Connect
 
